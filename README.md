@@ -5,3 +5,4 @@ On windows you have to install python first, same thing on linux or macOS, after
 
 Download python frome here: https://www.python.org/downloads/
 For help write in issues section
+FOR WINDOWS 7 ISO YOU MUST TO HAVE A TORRENT CLIENT
